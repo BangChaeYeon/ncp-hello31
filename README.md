@@ -16,9 +16,9 @@
 ![구글 로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 [구글로 가기](https://www.google.co.kr/)
 
-> 배고프다...
+> 집 가고 싶다...
 >
-> 이번 시간 끝나면 `점심 시간`~
+> 오늘은 금요일~~
 >
 
 파일 탐색키를 열려면 `window key + e`를 누릅니다.
